@@ -1,0 +1,22 @@
+{
+    "version": "1.7.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.7.5/cxcli_Windows_i386.zip",
+            "bin": [
+                "cxcli.exe"
+            ],
+            "hash": "53148e3955d645c5e85869a331d73af0920d3ab79fef28950645676d8652d4fb"
+        },
+        "64bit": {
+            "url": "https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.7.5/cxcli_Windows_x86_64.zip",
+            "bin": [
+                "cxcli.exe"
+            ],
+            "hash": "07ac9a04caa85920fc9ac027abf5d8284f91a331d7871c9e5010e2fcaf023709"
+        }
+    },
+    "homepage": "https://cxcli.xavidop.me",
+    "license": "Apache-2.0",
+    "description": "The missing CLI for your Dialogflow CX projects"
+}
