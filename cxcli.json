@@ -1,19 +1,19 @@
 {
-    "version": "1.7.25",
+    "version": "1.7.26",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.7.25/cxcli_Windows_i386.zip",
+            "url": "https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.7.26/cxcli_Windows_i386.zip",
             "bin": [
                 "cxcli.exe"
             ],
-            "hash": "c1531e9a885b9b519d35fce355383a2cd1b006fc5013141e5b73ff85194e3cc7"
+            "hash": "9cbf4203204b3491838f6527680ac481a09618b77e514dd3106a19d4f8d97e6d"
         },
         "64bit": {
-            "url": "https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.7.25/cxcli_Windows_x86_64.zip",
+            "url": "https://github.com/xavidop/dialogflow-cx-cli/releases/download/v1.7.26/cxcli_Windows_x86_64.zip",
             "bin": [
                 "cxcli.exe"
             ],
-            "hash": "e1d199a04b75854a32ea8f44c69755f159d4a619da8d5f84b5d94b72604c2635"
+            "hash": "191c75904a9625bb492e04d37ce5d5d05d3861bd255bfe644311f86ec119fde6"
         }
     },
     "homepage": "https://cxcli.xavidop.me",
