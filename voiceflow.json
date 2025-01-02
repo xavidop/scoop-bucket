@@ -1,26 +1,26 @@
 {
-    "version": "1.5.7",
+    "version": "1.6.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/xavidop/voiceflow-cli/releases/download/v1.5.7/voiceflow_Windows_i386.zip",
+            "url": "https://github.com/xavidop/voiceflow-cli/releases/download/v1.6.0/voiceflow_Windows_i386.zip",
             "bin": [
                 "voiceflow.exe"
             ],
-            "hash": "12425b87cfa43c60da8922113df00e61a246395e53126043d720aefbebe71ca6"
+            "hash": "19cb479a35300ad22eb24be99c2c1ecdf007dd2d508afad056421b46c15e7547"
         },
         "64bit": {
-            "url": "https://github.com/xavidop/voiceflow-cli/releases/download/v1.5.7/voiceflow_Windows_x86_64.zip",
+            "url": "https://github.com/xavidop/voiceflow-cli/releases/download/v1.6.0/voiceflow_Windows_x86_64.zip",
             "bin": [
                 "voiceflow.exe"
             ],
-            "hash": "d70ba33babcfb8973ea5e9367dd0e255a093d06ca8181557d555c4f31f387f5b"
+            "hash": "ed0483b056140f092f7add620a4975fc3ad840bc72c7b70568a03c30115e84a7"
         },
         "arm64": {
-            "url": "https://github.com/xavidop/voiceflow-cli/releases/download/v1.5.7/voiceflow_Windows_arm64.zip",
+            "url": "https://github.com/xavidop/voiceflow-cli/releases/download/v1.6.0/voiceflow_Windows_arm64.zip",
             "bin": [
                 "voiceflow.exe"
             ],
-            "hash": "e4749bf0d46514e013b87bf30901f025d74a337156996da024c907d997d8ff86"
+            "hash": "f88cea6c0080e7fd28716f0f7e08b16f242b7e7374e23e4918ceaff5bf2aa2ff"
         }
     },
     "homepage": "https://voiceflow.xavidop.me",
