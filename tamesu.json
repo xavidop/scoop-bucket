@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xavidop/tamesu/releases/download/v1.2.0/tamesu-lite_1.2.0_windows_amd64.zip",
+            "url": "https://github.com/xavidop/tamesu/releases/download/v1.3.0/tamesu-lite_1.3.0_windows_amd64.zip",
             "bin": [
                 "tamesu.exe"
             ],
-            "hash": "3debfe14d49dac97c55317352e0734149723ca0efb729a54254ff707ead114ec"
+            "hash": "e4e1aa3a5ed4b720d52ec7131e1dd88433c9fa8f05df0a03dabf340a145e7114"
         },
         "arm64": {
-            "url": "https://github.com/xavidop/tamesu/releases/download/v1.2.0/tamesu-lite_1.2.0_windows_arm64.zip",
+            "url": "https://github.com/xavidop/tamesu/releases/download/v1.3.0/tamesu-lite_1.3.0_windows_arm64.zip",
             "bin": [
                 "tamesu.exe"
             ],
-            "hash": "e5e97f615cef0dfd6a8a67a0955845cad295f25c8ff00e370ce18f5838e13565"
+            "hash": "614a75b1b597c32e78572a961b71e24d415f7547d50699ff924add94759b1392"
         }
     },
     "homepage": "https://xavidop.github.io/tamesu/",
