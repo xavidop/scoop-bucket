@@ -1,19 +1,19 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/xavidop/hikyaku/releases/download/v1.5.0/hikyaku_1.5.0_windows_amd64.zip",
+            "url": "https://github.com/xavidop/hikyaku/releases/download/v1.5.1/hikyaku_1.5.1_windows_amd64.zip",
             "bin": [
                 "hikyaku.exe"
             ],
-            "hash": "e546fe31884198a239668eb867ccd569c73916cf33a117ddfe11da8c3ef32bbe"
+            "hash": "1c414c7a155424a50f33c535bf798469644737f33a272018044360a0df4a698a"
         },
         "arm64": {
-            "url": "https://github.com/xavidop/hikyaku/releases/download/v1.5.0/hikyaku_1.5.0_windows_arm64.zip",
+            "url": "https://github.com/xavidop/hikyaku/releases/download/v1.5.1/hikyaku_1.5.1_windows_arm64.zip",
             "bin": [
                 "hikyaku.exe"
             ],
-            "hash": "dd0645f28da408f433e8c0b3b69e51514d12cc0a143f463c7f8ca89a81fad282"
+            "hash": "777604ca47bcba096a4c17d055f68d824c165b887a644f4b8b2fd2cffe9268b4"
         }
     },
     "homepage": "https://xavidop.github.io/hikyaku/",
